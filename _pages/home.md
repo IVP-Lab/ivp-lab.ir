@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-We are a dynamic research group at [Kharazmi University]([https://www.physik.lmu.de/en/index.html](https://khu.ac.ir/en)) and at the [Shahid Beheshti University](https://en.sbu.ac.ir/). 
+We are a dynamic research group at [Kharazmi University](https://khu.ac.ir/en) and at the [Shahid Beheshti University](https://en.sbu.ac.ir/). 
 
 
 
