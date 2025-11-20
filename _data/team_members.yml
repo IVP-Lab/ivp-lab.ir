@@ -5,6 +5,12 @@
   email:
   number_educ: 0
 
+- name: "Alireza Rahnama"
+  photo: ARahnama.jpg
+  info: "M.Sc"
+  description: "I graduated with a master's degree in Artificial Intelligence (AI) from Kharazmi University and Dr. Mansouri supervised my master's thesis, which was titled \"Action Recognition in compressed domain using Deep Learning\". I am a highly motivated researcher with an extensive experience in machine learning and video/image analysis. proficiency in temporal summarization and video understanding, with multiple publications in IEEE conferences."
+  email:
+  number_educ: 0
 
 - name: "Mohadeseh Safari"
   photo: MSafari.jpg
@@ -52,6 +58,13 @@
   photo: MHosseinkhani.jpg
   info: "M.Sc"
   description: "Marzieh Hosseinkhani holds an M.Sc. in Computer Engineering – Artificial Intelligence from Kharazmi University, supervised by Professor Azadeh Mansouri. Her thesis, “Video Super-Resolution Using Spatio-Temporal Information,” introduced a novel DCT- and quantization-based loss function to enhance perceptual video quality and resolution. She has written several research publications in image and video processing and compression, and has professional experience in video compression, video processing, and applied machine learning across multiple companies."
+  email:
+  number_educ: 0
+
+- name: "Zohreh Yarahmady"
+  photo: ZYarahmady.jpg
+  info: "M.Sc"
+  description: "Zohreh Yarahmady obtained her M.Sc. in Computer Engineering – Artificial Intelligence from Kharazmi University and her B.Sc. in Computer Science from Chamran University of Ahvaz. Her master’s thesis, “No Reference Screen Content Image Quality Assessment With Proxy Labels,” was accepted as a paper at the 7th International Conference on Pattern Recognition and Image Analysis (IPRIA 2025). Additionally, she served on the executive team for the National and International Conference on Computer Vision in 1402. She is familiar with image processing, object recognition, machine learning, and computer vision."
   email:
   number_educ: 0
 
