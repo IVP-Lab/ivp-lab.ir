@@ -1,6 +1,7 @@
 - name: Milan P Allan
   photo: Milan1.jpg
   info: Professor
+  description: ""
   email: milan.allan@gmail.com
   number_educ: 5
   education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
@@ -11,7 +12,8 @@
 
 - name: "Amir Hossein Bakhtiari"
   photo: rock.jpg
-  info: Amir Hossein Bakhtiari completed his M.Sc. in Computer Engineering – Artificial Intelligence at Kharazmi University under the supervision of Professor Azadeh Mansouri. His master’s thesis, “No-reference Video Quality Assessment Using Deep Neural Networks,” focused on developing deep-learning–based methods for no-reference video quality assessment. During his M.Sc. studies, he conducted research in Video Quality Assessment with an emphasis on deep neural architectures and learning-based perceptual metrics. He is currently pursuing a Ph.D. in Computer Engineering at Queen’s University in Kingston, where his research focuses on video action recognition and deformable linear objects perception.
+  info: "Ph.D. student"
+  description: Amir Hossein Bakhtiari completed his M.Sc. in Computer Engineering – Artificial Intelligence at Kharazmi University under the supervision of Professor Azadeh Mansouri. His master’s thesis, “No-reference Video Quality Assessment Using Deep Neural Networks,” focused on developing deep-learning–based methods for no-reference video quality assessment. During his M.Sc. studies, he conducted research in Video Quality Assessment with an emphasis on deep neural architectures and learning-based perceptual metrics. He is currently pursuing a Ph.D. in Computer Engineering at Queen’s University in Kingston, where his research focuses on video action recognition and deformable linear objects perception.
   email: milan.allan@gmail.com
   number_educ: 0
   education1:
