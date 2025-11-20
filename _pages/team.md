@@ -27,6 +27,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <p>{{ member.description }}</p>
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -75,7 +76,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 
-
+{% comment %}
 
 
 ## Master and Bachelor Students
@@ -194,3 +195,5 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Administrative Support
 <a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+
+{% endcomment %}
