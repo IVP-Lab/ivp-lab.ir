@@ -1,24 +1,66 @@
-- name: Milan P Allan
-  photo: Milan1.jpg
-  info: Professor
-  description: ""
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
 - name: "Amir Hossein Bakhtiari"
-  photo: rock.jpg
+  photo: AHBakhtiari.jpg
   info: "Ph.D. student"
-  description: Amir Hossein Bakhtiari completed his M.Sc. in Computer Engineering – Artificial Intelligence at Kharazmi University under the supervision of Professor Azadeh Mansouri. His master’s thesis, “No-reference Video Quality Assessment Using Deep Neural Networks,” focused on developing deep-learning–based methods for no-reference video quality assessment. During his M.Sc. studies, he conducted research in Video Quality Assessment with an emphasis on deep neural architectures and learning-based perceptual metrics. He is currently pursuing a Ph.D. in Computer Engineering at Queen’s University in Kingston, where his research focuses on video action recognition and deformable linear objects perception.
-  email: milan.allan@gmail.com
+  description: "Amir Hossein Bakhtiari completed his M.Sc. in Computer Engineering – Artificial Intelligence at Kharazmi University under the supervision of Professor Azadeh Mansouri. His master’s thesis, “No-reference Video Quality Assessment Using Deep Neural Networks,” focused on developing deep-learning–based methods for no-reference video quality assessment. During his M.Sc. studies, he conducted research in Video Quality Assessment with an emphasis on deep neural architectures and learning-based perceptual metrics. He is currently pursuing a Ph.D. in Computer Engineering at Queen’s University in Kingston, where his research focuses on video action recognition and deformable linear objects perception."
+  email:
   number_educ: 0
-  education1:
-  education2:
-  education3:
+
+
+- name: "Mohadeseh Safari"
+  photo: MSafari.jpg
+  info: "M.Sc student"
+  description: "Mohadeseh Safari is currently pursuing her M.Sc. in Computer Science – Data Mining at Kharazmi University under the supervision of Professor Azadeh Mansouri. Her master’s thesis, titled “Compressed-Domain Video Action Recognition Using Vision–Language Models,” investigates the capabilities of multimodal vision–language architectures and their inherent visual knowledge in advancing action recognition directly from compressed-domain data. During her M.Sc. studies, she has focused on research at the intersection of video understanding, multimodal learning, and representation learning, with an emphasis on leveraging modern vision–language models for efficient and robust action recognition."
+  email:
+  number_educ: 0
+
+- name: "Alireza Nemati"
+  photo: ANemati.jpg
+  info: "M.Sc student"
+  description: "Alireza Nemati is pursuing his M.Sc. in Computer Engineering – Artificial Intelligence at Kharazmi University under the supervision of Professor Azadeh Mansouri. His master’s thesis, “Face Forensics Detection Using Deep Features,” focuses on developing deep learning–based methods for detecting synthetically generated (fake) faces through deep feature analysis. He is currently working as a Software Engineering Expert in the IT Department of Tejarat Bank. He has good experience in Python, Django, and building scalable server-side applications."
+  email:
+  number_educ: 0
+
+- name: "Behnam Samadi"
+  photo: BSamadi.jpg
+  info: "M.Sc student"
+  description: "Behnam Samadi is a PhD candidate in Computer Engineering – Artificial Intelligence. He completed his Master’s thesis in 2019 under the supervision of Professor Dr. Mansouri, titled “Boosting Image Captioning Methods Based on Contextual Information” at Kharazmi University, where he also served as the professor’s teaching assistant. He has also studied and worked at Shahid Beheshti University and K. N. Toosi University of Technology, and gained international research experience as a Guest Researcher at the University of Passau. With over three years of industry experience in computer vision and data science, his research focuses on machine learning across diverse data types, with an emphasis on visual data, including point cloud processing, image and video analysis."
+  email:
+  number_educ: 0
+
+- name: "Parham Khadivi"
+  photo: PKhadivi.jpg
+  info: "M.Sc"
+  description: "Parham Khadivi completed his M.Sc. in Computer Engineering – Artificial Intelligence at Kharazmi University under the supervision of Professor Azadeh Mansouri. His master’s thesis, “Lightweight Image Super-Resolution Using Local and Global Feature Fusion,” focused on developing efficient deep learning architectures for single-image super-resolution with an emphasis on local and global feature fusion mechanisms. During his M.Sc. studies, he conducted research in the field of image super-resolution, specializing in lightweight and perceptually optimized deep neural networks."
+  email:
+  number_educ: 0
+
+- name: "Fariba Saadati Monem"
+  photo: FSMonem.jpg
+  info: "Ph.D. student"
+  description: "I completed my Bachelor's degree in Computer Engineering (Software) at Kharazmi University and my Master's degree in Computer Engineering with a focus on Artificial Intelligence. During my academic journey, I have worked on projects related to image and video processing as well as image compression. The title of my Master's thesis was \"Latent Space Scalability In Learned Image Compression.\" Currently, I am pursuing a PhD in Artificial Intelligence at Shahid Beheshti University. I am deeply passionate about research in image processing, image compression, and machine learning."
+  email:
+  number_educ: 0
+
+- name: "Amirhossein Heydari"
+  photo: AHeydari.jpg
+  info: "M.Sc student"
+  description: "Amirhossein Heydari is completing his M.Sc. in Computer Engineering – Artificial Intelligence and Robotics at Kharazmi University under the supervision of Prof. Azadeh Mansouri. His thesis, “Backdoor Defense via Aggregation of Outsourced Models using Multi-Stage Knowledge Distillation,” focuses on improving the resilience of deep neural networks against training-time backdoor attacks in outsourced learning settings. His research interests include backdoor attacks and defenses in deep neural networks, adversarial machine learning, robustness and security of AI systems, as well as broader areas such as deep learning, computer vision, AI agents, and trustworthy AI."
+  email:
+  number_educ: 0
+
+- name: "Marzieh Hosseinkhani"
+  photo: MHosseinkhani.jpg
+  info: "M.Sc"
+  description: "Marzieh Hosseinkhani holds an M.Sc. in Computer Engineering – Artificial Intelligence from Kharazmi University, supervised by Professor Azadeh Mansouri. Her thesis, “Video Super-Resolution Using Spatio-Temporal Information,” introduced a novel DCT- and quantization-based loss function to enhance perceptual video quality and resolution. She has written several research publications in image and video processing and compression, and has professional experience in video compression, video processing, and applied machine learning across multiple companies."
+  email:
+  number_educ: 0
+
+- name: "Mohammadreza Raie"
+  photo: MRaie.jpg
+  info: "M.Sc"
+  description: "My name is Mohammadreza, and I have a strong interest in multidisciplinary topics and the application of artificial intelligence, particularly in computer vision across various fields. Each project I complete provides valuable experience that will enhance my future endeavors. For my master’s thesis, titled \"Image Quality Aggregation in Deep Learning-Based Assessment,\" I worked under the supervision of Dr. Mansouri. Collaborating with Dr. Mansouri and her research team has been a valuable experience, and I look forward to continuing our professional relationship."
+  email:
+  number_educ: 0
 
 - name: "This could be you !"
   photo: rock.jpg
