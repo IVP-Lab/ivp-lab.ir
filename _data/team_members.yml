@@ -75,6 +75,28 @@
   email:
   number_educ: 0
 
+- name: "Narges Honarjou"
+  photo: NHonarjou.jpg
+  info: "M.Sc"
+  description: "I hold a Master’s degree in Artificial Intelligence, where my thesis focused on violence detection using advanced neural networks. I have published research in well-known conferences and journals, including work on feature map correlations for fake face detection and violence detection in compressed video. My academic interests center on machine vision, image reconstruction, and developing intelligent systems, and I am actively seeking opportunities to contribute to cutting-edge research in these fields."
+  email:
+  number_educ: 0
+
+- name: "Mohammad Nouri"
+  photo: MNouri.jpg
+  info: "M.Sc"
+  description: "I hold a Master’s degree in Artificial Intelligence, where I completed my thesis on video quality assessment in the compressed domain under the supervision of Dr. Azadeh Mansouri. After graduating, I continued working in AI with a strong interest in Natural Language Processing. My work focuses on sentiment analysis, claim detection, and other NLP tasks aimed at extracting meaningful insights from text. I’m passionate about building intelligent systems that better understand human language and contribute to real-world applications. I’m continuously exploring new ideas, learning, and developing impactful AI solutions."
+  email:
+  number_educ: 0
+
+- name: "Maryam Heydari"
+  photo: MHeydari.jpg
+  info: "M.Sc"
+  description: "I received my B.Sc. degree in Software Engineering from the University of Zanjan, Iran, and subsequently earned my M.Sc. degree with a thesis entitled “An Improved Approach to Non-Reference Image Quality Assessment” under the supervision of Dr. Mansouri. After completing my graduate studies, I entered the industry, where I have been actively involved in the development and implementation of software systems. My current interests include software system design, service-oriented architectures, data analysis, and the application of artificial intelligence techniques in real-world problem-solving."
+  email:
+  number_educ: 0
+
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
